@@ -33,7 +33,7 @@ namespace EchoBot1.Bots
              double temperature, int topP, int frequencyPenalty, int presencePenalty)
         {
 
-            var openAiKey = "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";
+            var openAiKey = " ";
 
             var apiCall = "https://api.openai.com/v1/engines/" + engine + "/completions";
 
